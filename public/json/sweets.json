@@ -1,0 +1,214 @@
+{
+  "page": {
+    "title": "شیرینی‌فروشی‌های اسنپ فود",
+    "openSweetsCount": 29,
+    "selectedAddress": {
+      "id": "address_001",
+      "title": "آدرس منتخب",
+      "city": "تهران",
+      "latitude": 35.7219,
+      "longitude": 51.3347
+    }
+  },
+
+  "sweetShops": [
+    {
+      "id": "sweet_001",
+      "title": "شیرینی و خشکبار سارا",
+      "image": "https://example.com/images/sara.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/sweet-shop/sweet_001"
+      },
+      "rating": {
+        "score": 4.6,
+        "votes": 2400
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "39,600 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان"
+        }
+      ]
+    },
+
+    {
+      "id": "sweet_002",
+      "title": "کیک خونه (هفت تیر)",
+      "image": "https://example.com/images/cakekhone.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/sweet-shop/sweet_002"
+      },
+      "status": "جدید",
+      "delivery": {
+        "time": "45 دقیقه",
+        "price": "35,000 تومان"
+      },
+      "discounts": [],
+      "badges": []
+    },
+
+    {
+      "id": "sweet_003",
+      "title": "نان و شیرینی نانک",
+      "image": "https://example.com/images/nanak.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/sweet-shop/sweet_003"
+      },
+      "rating": {
+        "score": 4.6,
+        "votes": 3200
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "46,600 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "10%",
+          "label": "تخفیف شگفت"
+        }
+      ]
+    },
+
+    {
+      "id": "sweet_004",
+      "title": "نان و شیرینی داغ",
+      "image": "https://example.com/images/nan-dagh.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/sweet-shop/sweet_004"
+      },
+      "rating": {
+        "score": 4.1,
+        "votes": 2100
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "38,900 تومان"
+      },
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "35%",
+          "label": "تخفیف باز"
+        }
+      ]
+    },
+
+    {
+      "id": "sweet_005",
+      "title": "تولیدی ژولیا و بامیه حاج کاظمی",
+      "image": "https://example.com/images/julia.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/sweet-shop/sweet_005"
+      },
+      "status": "جدید",
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "38,900 تومان"
+      }
+    },
+
+    {
+      "id": "sweet_006",
+      "title": "حاجی باقلا",
+      "image": "https://example.com/images/haji-bagla.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/sweet-shop/sweet_006"
+      },
+      "rating": {
+        "score": 4.5,
+        "votes": 110
+      },
+      "delivery": {
+        "time": "75 دقیقه",
+        "price": "70,000 تومان"
+      },
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "10%",
+          "label": "تخفیف شگفت"
+        }
+      ]
+    },
+
+    {
+      "id": "sweet_007",
+      "title": "نان شیرینی داغ",
+      "image": "https://example.com/images/nan-shirini.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/sweet-shop/sweet_007"
+      },
+      "rating": {
+        "score": 4.1,
+        "votes": 340
+      },
+      "delivery": {
+        "time": "15 دقیقه",
+        "price": "38,900 تومان"
+      },
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "10%",
+          "label": "تخفیف شگفت"
+        }
+      ]
+    },
+
+    {
+      "id": "sweet_008",
+      "title": "نان و شیرینی بهشت",
+      "image": "https://example.com/images/behesht.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/sweet-shop/sweet_008"
+      },
+      "rating": {
+        "score": 4.4,
+        "votes": 700
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "38,900 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "25%",
+          "label": "تخفیف باز"
+        },
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان"
+        },
+        {
+          "type": "percentage",
+          "value": "6%",
+          "label": "تخفیف شگفت"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'Vazir';
+    src: url('../../font/Vazirmatn-Medium.ttf');
+}
+@font-face {
+    font-family: 'VazirBold';
+    src: url('../../font/Vazirmatn-Bold.ttf');
+}
+.container {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,.25);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    z-index: 1000;
+}
+.modalMenu {
+    direction: rtl;
+    width: 720px;
+    max-width: 720px;
+    height: 75vh;
+    background-color: white;
+    border-radius: 30px;
+    animation: slideUp .35s ease-out;
+}
+@keyframes slideUp {
+    from {
+        transform: translateY(100%);
+    }
+
+    to {
+        transform: translateY(0);
+    }
+}
+.closeBtnMenu {
+    border: none;
+    background: none;
+    font-size: 29px;
+    font-family: 'Vazir';
+    padding: 14px 25px;
+}
+.categoriesTitle {
+    font-family: 'VazirBold';
+    font-size: 1.125rem;
+    line-height: 1.875rem;
+    font-weight: 600;
+}
+.allCategory {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    margin-right: 15px;
+}
+.box {
+    width: 100%;
+    height: 64px;
+    background-color: #f1f1f1;
+    border-radius: 1rem;
+    text-align: center;
+    align-items: center;
+    border: none;
+    margin-top: 25px;
+    font-family: 'Vazir';
+}
+.imgTitle{
+    width: 48px;
+    height: 48px;
+    margin-top: 9px;
+}
+.titleOfBox {
+    margin-top: 5px;
+    font-family: 'Vazir';
+    font-size: 11px;
+}

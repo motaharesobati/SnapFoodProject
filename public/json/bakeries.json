@@ -1,0 +1,168 @@
+{
+  "page": {
+    "title": "نانوایی‌های اسنپ فود",
+    "openBakeriesCount": 12,
+    "selectedAddress": {
+      "id": "address_001",
+      "title": "آدرس منتخب",
+      "city": "تهران",
+      "latitude": 35.7219,
+      "longitude": 51.3347
+    }
+  },
+
+  "bakeries": [
+    {
+      "id": "bakery_001",
+      "title": "سنگک خوشه طلایی (محلاتی-آزادی)",
+      "image": "https://example.com/images/khoshe-talayi.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/bakery/bakery_001"
+      },
+      "rating": {
+        "score": 4.7,
+        "votes": 14000
+      },
+      "delivery": {
+        "time": "30 دقیقه",
+        "price": "43,500 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان"
+        }
+      ]
+    },
+
+    {
+      "id": "bakery_002",
+      "title": "نان و شیرینی نانک",
+      "image": "https://example.com/images/nanak.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/bakery/bakery_002"
+      },
+      "rating": {
+        "score": 4.6,
+        "votes": 3200
+      },
+      "delivery": {
+        "time": "15 دقیقه",
+        "price": "49,600 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان"
+        },
+        {
+          "type": "percentage",
+          "value": "10%",
+          "label": "تخفیف شگفت"
+        }
+      ]
+    },
+
+    {
+      "id": "bakery_003",
+      "title": "نان شیرینی داغ",
+      "image": "https://example.com/images/nan-shirini-dagh.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/bakery/bakery_003"
+      },
+      "rating": {
+        "score": 4.1,
+        "votes": 340
+      },
+      "delivery": {
+        "time": "15 دقیقه",
+        "price": "38,900 تومان"
+      },
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "10%",
+          "label": "تخفیف شگفت"
+        }
+      ]
+    },
+
+    {
+      "id": "bakery_004",
+      "title": "نانوایی بربری حسنو (آزادی-شعبه کرمان)",
+      "image": "https://example.com/images/hasno.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/bakery/bakery_004"
+      },
+      "rating": {
+        "score": 4.5,
+        "votes": 2600
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "41,800 تومان"
+      }
+    },
+
+    {
+      "id": "bakery_005",
+      "title": "نانوایی لواشی آبشار",
+      "image": "https://example.com/images/abshar.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/bakery/bakery_005"
+      },
+      "rating": {
+        "score": 4.9,
+        "votes": 300
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "42,900 تومان"
+      }
+    },
+
+    {
+      "id": "bakery_006",
+      "title": "نان لواشی صدیقی (شعبه خاوران)",
+      "image": "https://example.com/images/sedighi.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/bakery/bakery_006"
+      },
+      "status": "جدید",
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "42,900 تومان"
+      }
+    },
+
+    {
+      "id": "bakery_007",
+      "title": "نان لواش گل گندم",
+      "image": "https://example.com/images/gol-gandom.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/bakery/bakery_007"
+      },
+      "rating": {
+        "score": 5,
+        "votes": 10
+      },
+      "delivery": {
+        "time": "30 دقیقه",
+        "price": "42,900 تومان"
+      }
+    }
+  ]
+}

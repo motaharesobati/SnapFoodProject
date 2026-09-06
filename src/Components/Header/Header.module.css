@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Vazir';
+    src: url('../../font/Vazirmatn-Medium.ttf');
+}
+@font-face {
+    font-family: 'VazirBold';
+    src: url('../../font/Vazirmatn-Bold.ttf');
+}
+.locationBtn {
+    font-family: 'Vazir';
+    border-radius: 20px;
+    font-weight: 500;
+    padding: 0px 0.75rem;
+    border: none;
+    background-color: #f1f1f1;
+    height: 35px;
+    margin-top: 9px;
+    margin-right: auto;
+}
+.locationBtn:hover {
+    background-color: #dcdcdc;
+}
+.iconShoppingCart {
+    width: 65%;
+    margin-top: 9px;
+}
+.cartHover {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.2s ease;
+    margin-right: auto;
+
+}
+.cartHover:hover {
+    background-color: #dcdcdc;
+}
+.address {
+    text-align: center;
+    font-family: 'Vazir';
+    color: rgba(19, 20, 31, 0.6);
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+    font-weight: 400;
+}
+.searchBox {
+    text-align: center;
+    position: relative;
+}
+.search {
+    width: 94%;
+    height: 40px;
+    border-radius: 50px;
+    border: none;
+    background-color: #f1f1f1;
+    margin-top: 30px;
+    text-align: right;
+    font-family: 'Vazir';
+    font-size: 20px;
+    padding-right: 18px;
+}
+.searchIcon {
+    position: absolute;
+    left: 35px;
+    top: 70%;
+    transform: translateY(-50%);
+    width: 24px;
+    height: 24px;
+}

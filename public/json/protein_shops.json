@@ -1,0 +1,216 @@
+{
+  "page": {
+    "title": "پروتئینی‌های اسنپ فود",
+    "openProteinShopsCount": 13,
+    "selectedAddress": {
+      "id": "address_001",
+      "title": "آدرس منتخب",
+      "city": "تهران",
+      "latitude": 35.7219,
+      "longitude": 51.3347
+    }
+  },
+
+  "proteinShops": [
+    {
+      "id": "protein_001",
+      "title": "سوپر پروتئین قصاب باشی",
+      "image": "https://example.com/images/ghasab-bashi.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/protein-shop/protein_001"
+      },
+      "rating": {
+        "score": 4.5,
+        "votes": 3000
+      },
+      "delivery": {
+        "time": "80 دقیقه",
+        "price": "120,000 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان"
+        },
+        {
+          "type": "percentage",
+          "value": "18%",
+          "label": "تخفیف شگفت"
+        }
+      ]
+    },
+
+    {
+      "id": "protein_002",
+      "title": "هایپر پروتئین میلاج",
+      "image": "https://example.com/images/milaj.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/protein-shop/protein_002"
+      },
+      "rating": {
+        "score": 4.6,
+        "votes": 2100
+      },
+      "delivery": {
+        "time": "70 دقیقه",
+        "price": "120,000 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان"
+        },
+        {
+          "type": "percentage",
+          "value": "20%",
+          "label": "تخفیف"
+        }
+      ]
+    },
+
+    {
+      "id": "protein_003",
+      "title": "پروتئین حاج امیر",
+      "image": "https://example.com/images/haj-amir.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/protein-shop/protein_003"
+      },
+      "rating": {
+        "score": 4.7,
+        "votes": 1000
+      },
+      "delivery": {
+        "time": "35 دقیقه",
+        "price": "42,000 تومان"
+      }
+    },
+
+    {
+      "id": "protein_004",
+      "title": "فرآورده های گوشتی نخل",
+      "image": "https://example.com/images/nakhl.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/protein-shop/protein_004"
+      },
+      "rating": {
+        "score": 4.4,
+        "votes": 310
+      },
+      "delivery": {
+        "time": "15 دقیقه",
+        "price": "40,900 تومان"
+      },
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "30%",
+          "label": "تخفیف"
+        }
+      ]
+    },
+
+    {
+      "id": "protein_005",
+      "title": "پروتئین الف",
+      "image": "https://example.com/images/alef.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/protein-shop/protein_005"
+      },
+      "rating": {
+        "score": 4.7,
+        "votes": 550
+      },
+      "delivery": {
+        "time": "20 دقیقه",
+        "price": "49,000 تومان"
+      },
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "8%",
+          "label": "تخفیف شگفت"
+        }
+      ]
+    },
+
+    {
+      "id": "protein_006",
+      "title": "پروتئین هامون",
+      "image": "https://example.com/images/hamoon.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/protein-shop/protein_006"
+      },
+      "rating": {
+        "score": 4.6,
+        "votes": 170
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "48,200 تومان"
+      }
+    },
+
+    {
+      "id": "protein_007",
+      "title": "هایپر پروتئین ایران",
+      "image": "https://example.com/images/iran-protein.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/protein-shop/protein_007"
+      },
+      "rating": {
+        "score": 4.5,
+        "votes": 6500
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "49,000 تومان"
+      },
+      "discounts": [
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان"
+        },
+        {
+          "type": "return",
+          "label": "ضمانت مرجوعی"
+        },
+        {
+          "type": "percentage",
+          "value": "5%",
+          "label": "تخفیف"
+        }
+      ]
+    },
+
+    {
+      "id": "protein_008",
+      "title": "سوسیس و کالباس قدیمی (امیدان)",
+      "image": "https://example.com/images/omidian.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/protein-shop/protein_008"
+      },
+      "rating": {
+        "score": 4.7,
+        "votes": 700
+      },
+      "delivery": {
+        "time": "20 دقیقه",
+        "price": "40,000 تومان"
+      }
+    }
+  ]
+}

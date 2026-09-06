@@ -1,0 +1,238 @@
+{
+  "page": {
+    "title": "میوه‌فروشی‌های اسنپ فود",
+    "openFruitShopsCount": 18,
+    "selectedAddress": {
+      "id": "address_001",
+      "title": "آدرس منتخب",
+      "city": "تهران",
+      "latitude": 35.7219,
+      "longitude": 51.3347
+    },
+    "banner": {
+      "title": "سوپر میوه لوکس سعید قاسمی",
+      "discount": "تا 15% تخفیف",
+      "button": "مشاهده منو",
+      "image": "https://example.com/banner/fruit-banner.jpg"
+    }
+  },
+
+  "fruitShops": [
+    {
+      "id": "fruit_001",
+      "title": "سرای میوه درویان",
+      "image": "https://example.com/images/dervian.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/fruit-shop/fruit_001"
+      },
+      "rating": {
+        "score": 4.2,
+        "votes": 3700
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "42,300 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "services": [
+        "ضمانت مرجوعی"
+      ],
+      "discounts": [
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان"
+        }
+      ]
+    },
+
+    {
+      "id": "fruit_002",
+      "title": "هایپر میوه مافخری",
+      "image": "https://example.com/images/mafakhri.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/fruit-shop/fruit_002"
+      },
+      "rating": {
+        "score": 4.4,
+        "votes": 3900
+      },
+      "delivery": {
+        "time": "30 دقیقه",
+        "price": "40,900 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "50%",
+          "label": "تخفیف باز"
+        },
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان + تخفیف"
+        },
+        {
+          "type": "return",
+          "label": "ضمانت مرجوعی"
+        }
+      ]
+    },
+
+    {
+      "id": "fruit_003",
+      "title": "میوه فروشی شفیعی",
+      "image": "https://example.com/images/shafiei.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/fruit-shop/fruit_003"
+      },
+      "rating": {
+        "score": 4.3,
+        "votes": 390
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "40,900 تومان"
+      }
+    },
+
+    {
+      "id": "fruit_004",
+      "title": "سبزی خوردکنی بانو",
+      "image": "https://example.com/images/banoo.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/fruit-shop/fruit_004"
+      },
+      "rating": {
+        "score": 4.5,
+        "votes": 950
+      },
+      "delivery": {
+        "time": "30 دقیقه",
+        "price": "39,600 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "5%",
+          "label": "تخفیف باز"
+        }
+      ]
+    },
+
+    {
+      "id": "fruit_005",
+      "title": "میوه حاجی ارزونی برادران فتاحی",
+      "image": "https://example.com/images/fattahi.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/fruit-shop/fruit_005"
+      },
+      "rating": {
+        "score": 4.3,
+        "votes": 700
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "40,900 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "65%",
+          "label": "تخفیف باز"
+        },
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان"
+        },
+        {
+          "type": "return",
+          "label": "ضمانت مرجوعی"
+        }
+      ]
+    },
+
+    {
+      "id": "fruit_006",
+      "title": "ارزانسرای میوه (محله درویان)",
+      "image": "https://example.com/images/arzansera.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/fruit-shop/fruit_006"
+      },
+      "rating": {
+        "score": 4.5,
+        "votes": 700
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "40,900 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "20%",
+          "label": "تخفیف باز"
+        },
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان"
+        },
+        {
+          "type": "return",
+          "label": "ضمانت مرجوعی"
+        }
+      ]
+    },
+
+    {
+      "id": "fruit_007",
+      "title": "سبزی خردکنی سبزینو",
+      "image": "https://example.com/images/sabzino.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/fruit-shop/fruit_007"
+      },
+      "status": "جدید",
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "35,000 تومان"
+      }
+    },
+
+    {
+      "id": "fruit_008",
+      "title": "سوپر میوه علمدار",
+      "image": "https://example.com/images/alemdar.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/fruit-shop/fruit_008"
+      },
+      "rating": {
+        "score": 4.4,
+        "votes": 650
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "42,300 تومان"
+      }
+    }
+  ]
+}

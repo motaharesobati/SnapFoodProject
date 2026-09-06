@@ -1,0 +1,229 @@
+{
+  "page": {
+    "title": "آبمیوه و بستنی",
+    "openShopsCount": 15,
+    "selectedAddress": {
+      "id": "address_001",
+      "title": "آدرس منتخب",
+      "city": "تهران",
+      "latitude": 35.7219,
+      "longitude": 51.3347
+    }
+  },
+
+  "juiceIceCreamShops": [
+    {
+      "id": "juice_001",
+      "title": "آبمیوه بستنی عارف",
+      "image": "https://example.com/images/aref.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/juice-icecream/juice_001"
+      },
+      "rating": {
+        "score": 4.4,
+        "votes": 2000
+      },
+      "delivery": {
+        "time": "80 دقیقه",
+        "price": "150,000 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "free_product",
+          "label": "محصول رایگان"
+        },
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان + تخفیف"
+        }
+      ]
+    },
+
+    {
+      "id": "juice_002",
+      "title": "آبمیوه بستنی خاطره",
+      "image": "https://example.com/images/khatereh.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/juice-icecream/juice_002"
+      },
+      "rating": {
+        "score": 4.6,
+        "votes": 1600
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "33,100 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان + تخفیف"
+        }
+      ]
+    },
+
+    {
+      "id": "juice_003",
+      "title": "آبمیوه و بستنی آقاجون",
+      "image": "https://example.com/images/agha-joon.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/juice-icecream/juice_003"
+      },
+      "rating": {
+        "score": 4.5,
+        "votes": 500
+      },
+      "delivery": {
+        "time": "45 دقیقه",
+        "price": "34,000 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان + تخفیف"
+        }
+      ]
+    },
+
+    {
+      "id": "juice_004",
+      "title": "آبمیوه بستنی محسن",
+      "image": "https://example.com/images/mohsen.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/juice-icecream/juice_004"
+      },
+      "rating": {
+        "score": 4.7,
+        "votes": 950
+      },
+      "delivery": {
+        "time": "45 دقیقه",
+        "price": "60,000 تومان"
+      }
+    },
+
+    {
+      "id": "juice_005",
+      "title": "آبمیوه بستنی شکوفه",
+      "image": "https://example.com/images/shokoofeh.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/juice-icecream/juice_005"
+      },
+      "rating": {
+        "score": 4,
+        "votes": 1500
+      },
+      "delivery": {
+        "time": "80 دقیقه",
+        "price": "65,000 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "25%",
+          "label": "تخفیف باز"
+        },
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان + تخفیف"
+        }
+      ]
+    },
+
+    {
+      "id": "juice_006",
+      "title": "آبمیوه بستنی چهارصد",
+      "image": "https://example.com/images/400.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/juice-icecream/juice_006"
+      },
+      "rating": {
+        "score": 4.5,
+        "votes": 700
+      },
+      "delivery": {
+        "time": "45 دقیقه",
+        "price": "120,000 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "free_product",
+          "label": "محصول رایگان"
+        },
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان + تخفیف"
+        },
+        {
+          "type": "percentage",
+          "value": "30%",
+          "label": "تخفیف"
+        }
+      ]
+    },
+
+    {
+      "id": "juice_007",
+      "title": "بستنی اسکندری",
+      "image": "https://example.com/images/eskandari.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/juice-icecream/juice_007"
+      },
+      "rating": {
+        "score": 4.7,
+        "votes": 23
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "34,800 تومان"
+      }
+    },
+
+    {
+      "id": "juice_008",
+      "title": "آبمیوه بستنی توت فرنگی",
+      "image": "https://example.com/images/tootfarangi.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/juice-icecream/juice_008"
+      },
+      "rating": {
+        "score": 4,
+        "votes": 3600
+      },
+      "delivery": {
+        "time": "80 دقیقه",
+        "price": "100,000 تومان"
+      },
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "25%",
+          "label": "تخفیف"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'Vazir';
+    src: url('../../font/Vazirmatn-Medium.ttf');
+}
+@font-face {
+    font-family: 'VazirBold';
+    src: url('../../font/Vazirmatn-Bold.ttf');
+}
+.overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,.25);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    z-index: 999;
+}
+.mapBox {
+    width: 100%;
+    max-width: 900px;
+    height: 100vh;
+    background: white;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+    animation: slideUp .35s ease-out;
+}
+@keyframes slideUp {
+    from {
+        transform: translateY(100%);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
+.closeBtn {
+    position: absolute;
+    right: 20px;
+    top: 4px;
+    border: none;
+    background: none;
+    font-size: 35px;
+    cursor: pointer;
+}
+.locationSelection {
+    text-align: right;
+    padding-right: 60px;
+    font-family: 'Vazir';
+    font-size: medium;
+}
+.text {
+    text-align: right;
+    padding-right: 20px;
+    font-family: 'Vazir';
+    font-size: small;
+}
+.map {
+    height: 400px;
+    background: #ddd;
+}
+.mapPin{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-100%);
+    z-index:999;
+    font-size:40px;
+}
+.confirm {
+    width: 90%;
+    margin: 20px 5%;
+    height: 55px;
+    background: #5856ff;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}

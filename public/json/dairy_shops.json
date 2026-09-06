@@ -1,0 +1,94 @@
+{
+  "page": {
+    "title": "لبنیات و فرآورده‌های لبنی",
+    "openDairyCount": 4,
+    "selectedAddress": {
+      "id": "address_001",
+      "title": "آدرس منتخب",
+      "city": "تهران",
+      "latitude": 35.7219,
+      "longitude": 51.3347
+    }
+  },
+
+  "dairyShops": [
+    {
+      "id": "dairy_001",
+      "title": "لبنیات سنتی اسکندری (چهارراه خورشید)",
+      "image": "https://example.com/images/eskandari-dairy.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/dairy/dairy_001"
+      },
+      "rating": {
+        "score": 4.8,
+        "votes": 63
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "41,000 تومان"
+      },
+      "badges": [
+        "نشان تک"
+      ]
+    },
+
+    {
+      "id": "dairy_002",
+      "title": "لبنیات سنتی دشت آدینه",
+      "image": "https://example.com/images/dasht-adineh.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/dairy/dairy_002"
+      },
+      "status": "جدید",
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "48,400 تومان"
+      },
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "5%",
+          "label": "تا 5% تخفیف"
+        }
+      ]
+    },
+
+    {
+      "id": "dairy_003",
+      "title": "عسل شهدیزان فردوس",
+      "image": "https://example.com/images/shahdizan.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/dairy/dairy_003"
+      },
+      "rating": {
+        "score": 4.7,
+        "votes": 950
+      },
+      "delivery": {
+        "time": "75 دقیقه",
+        "price": "60,000 تومان"
+      }
+    },
+
+    {
+      "id": "dairy_004",
+      "title": "خشکبار و عسل شهدیزان (اختیاریه)",
+      "image": "https://example.com/images/shahdizan-ekhtiyariyeh.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/dairy/dairy_004"
+      },
+      "rating": {
+        "score": 4.4,
+        "votes": 210
+      },
+      "delivery": {
+        "time": "80 دقیقه",
+        "price": "60,000 تومان"
+      }
+    }
+  ]
+}

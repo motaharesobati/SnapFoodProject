@@ -1,0 +1,50 @@
+
+@font-face {
+    font-family: 'Vazir';
+    src: url('../../font/Vazirmatn-Medium.ttf');
+}
+@font-face {
+    font-family: 'VazirBold';
+    src: url('../../font/Vazirmatn-Bold.ttf');
+}
+.category {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    direction: rtl;
+    gap: 15px;
+    padding: 15px 15px 40px;
+}
+
+.box {
+    width: 100%;
+    height: 64px;
+    background-color: #f1f1f1;
+    border-radius: 1rem;
+    text-align: center;
+    align-items: center;
+    border: none;
+    margin-top: 25px;
+    font-family: 'Vazir';
+}
+.imgTitle{
+    width: 48px;
+    height: 48px;
+    margin-top: 9px;
+}
+.titleOfBox {
+    margin-top: 5px;
+    font-family: 'Vazir';
+    font-size: 11px;
+}
+.buttonBox {
+    width: 125px;
+    height: 64px;
+    background-color: #f1f1f1;
+    border-radius: 1rem;
+    text-align: center;
+    align-items: center;
+    border: none;
+    margin-top: 25px;
+    font-family: 'Vazir';
+    font-size: 25px;
+}

@@ -1,0 +1,211 @@
+{
+  "page": {
+    "title": "کافه‌های اسنپ فود",
+    "openCafesCount": 26,
+    "selectedAddress": {
+      "id": "address_001",
+      "title": "آدرس منتخب",
+      "city": "تهران",
+      "latitude": 35.7219,
+      "longitude": 51.3347
+    }
+  },
+  "cafes": [
+    {
+      "id": "cafe_001",
+      "title": "کافه رستوران اویسس",
+      "image": "https://example.com/images/oasis.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/cafe/cafe_001"
+      },
+      "rating": {
+        "score": 4.3,
+        "votes": 4900
+      },
+      "delivery": {
+        "time": "30 دقیقه",
+        "price": "45,100 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان"
+        },
+        {
+          "type": "percentage",
+          "value": "15%",
+          "label": "تا 15% تخفیف"
+        }
+      ]
+    },
+    {
+      "id": "cafe_002",
+      "title": "کافه رستوران آمد",
+      "image": "https://example.com/images/amad.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/cafe/cafe_002"
+      },
+      "status": "جدید",
+      "delivery": {
+        "time": "35 دقیقه",
+        "price": "32,300 تومان"
+      },
+      "badges": [],
+      "discounts": [
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان"
+        }
+      ]
+    },
+    {
+      "id": "cafe_003",
+      "title": "هانی کافه",
+      "image": "https://example.com/images/hani-cafe.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/cafe/cafe_003"
+      },
+      "rating": {
+        "score": 4.2,
+        "votes": 600
+      },
+      "delivery": {
+        "time": "40 دقیقه",
+        "price": "38,700 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان + تخفیف"
+        },
+        {
+          "type": "percentage",
+          "value": "25%",
+          "label": "تا 25% تخفیف"
+        }
+      ]
+    },
+    {
+      "id": "cafe_004",
+      "title": "کافه دیار",
+      "image": "https://example.com/images/diar.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/cafe/cafe_004"
+      },
+      "rating": {
+        "score": 4.6,
+        "votes": 58
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "28,800 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "5%",
+          "label": "تا 5% تخفیف"
+        },
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان"
+        }
+      ]
+    },
+    {
+      "id": "cafe_005",
+      "title": "کافه یا",
+      "image": "https://example.com/images/ya.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/cafe/cafe_005"
+      },
+      "rating": {
+        "score": 4.7,
+        "votes": 15
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "35,700 تومان"
+      }
+    },
+    {
+      "id": "cafe_006",
+      "title": "کافه این",
+      "image": "https://example.com/images/in.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/cafe/cafe_006"
+      },
+      "status": "جدید",
+      "delivery": {
+        "time": "55 دقیقه",
+        "price": "رایگان"
+      }
+    },
+    {
+      "id": "cafe_007",
+      "title": "تله پیتزا (پیروزی)",
+      "image": "https://example.com/images/telepizza.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/cafe/cafe_007"
+      },
+      "rating": {
+        "score": 4.5,
+        "votes": 33000
+      },
+      "delivery": {
+        "time": "20 دقیقه",
+        "price": "رایگان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "25%",
+          "label": "تخفیف باز"
+        },
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان + تخفیف"
+        }
+      ]
+    },
+    {
+      "id": "cafe_008",
+      "title": "کافه رستوران اویسس",
+      "image": "https://example.com/images/oasis2.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/cafe/cafe_008"
+      },
+      "rating": {
+        "score": 4.3,
+        "votes": 4900
+      },
+      "delivery": {
+        "time": "30 دقیقه",
+        "price": "45,100 تومان"
+      },
+      "badges": [
+        "Pro"
+      ]
+    }
+  ]
+}
