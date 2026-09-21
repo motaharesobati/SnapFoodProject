@@ -14,11 +14,7 @@
     {
       "id": "cafe_001",
       "title": "کافه رستوران اویسس",
-<<<<<<< HEAD
       "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/65b8aa14be351.jpg",
-=======
-      "image": "https://example.com/images/oasis.jpg",
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/cafe/cafe_001"
@@ -49,11 +45,7 @@
     {
       "id": "cafe_002",
       "title": "کافه رستوران آمد",
-<<<<<<< HEAD
       "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/10/04.jpg",
-=======
-      "image": "https://example.com/images/amad.jpg",
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/cafe/cafe_002"
@@ -74,11 +66,7 @@
     {
       "id": "cafe_003",
       "title": "هانی کافه",
-<<<<<<< HEAD
       "image": "https://cdn.snappfood.ir/uploads/images/vendor-cover-app-review/8/09.jpg",
-=======
-      "image": "https://example.com/images/hani-cafe.jpg",
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/cafe/cafe_003"
@@ -109,11 +97,7 @@
     {
       "id": "cafe_004",
       "title": "کافه دیار",
-<<<<<<< HEAD
       "image": "https://cdn.snappfood.ir/uploads/images/vendor-cover-app-review/2/05.jpg",
-=======
-      "image": "https://example.com/images/diar.jpg",
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/cafe/cafe_004"
@@ -144,11 +128,7 @@
     {
       "id": "cafe_005",
       "title": "کافه یا",
-<<<<<<< HEAD
       "image": "https://cdn.snappfood.ir/uploads/images/vendor-cover-app-review/11/15.jpg",
-=======
-      "image": "https://example.com/images/ya.jpg",
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/cafe/cafe_005"
@@ -165,11 +145,7 @@
     {
       "id": "cafe_006",
       "title": "کافه این",
-<<<<<<< HEAD
       "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/65b8aa6c8c2a9.JPEG",
-=======
-      "image": "https://example.com/images/in.jpg",
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/cafe/cafe_006"
@@ -179,60 +155,6 @@
         "time": "55 دقیقه",
         "price": "رایگان"
       }
-<<<<<<< HEAD
-=======
-    },
-    {
-      "id": "cafe_007",
-      "title": "تله پیتزا (پیروزی)",
-      "image": "https://example.com/images/telepizza.jpg",
-      "onClick": {
-        "type": "navigate",
-        "target": "/cafe/cafe_007"
-      },
-      "rating": {
-        "score": 4.5,
-        "votes": 33000
-      },
-      "delivery": {
-        "time": "20 دقیقه",
-        "price": "رایگان"
-      },
-      "badges": [
-        "Pro"
-      ],
-      "discounts": [
-        {
-          "type": "percentage",
-          "value": "25%",
-          "label": "تخفیف باز"
-        },
-        {
-          "type": "free_delivery",
-          "label": "ارسال رایگان + تخفیف"
-        }
-      ]
-    },
-    {
-      "id": "cafe_008",
-      "title": "کافه رستوران اویسس",
-      "image": "https://example.com/images/oasis2.jpg",
-      "onClick": {
-        "type": "navigate",
-        "target": "/cafe/cafe_008"
-      },
-      "rating": {
-        "score": 4.3,
-        "votes": 4900
-      },
-      "delivery": {
-        "time": "30 دقیقه",
-        "price": "45,100 تومان"
-      },
-      "badges": [
-        "Pro"
-      ]
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
     }
   ]
 }

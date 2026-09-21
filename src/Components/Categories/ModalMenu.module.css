@@ -17,7 +17,6 @@
 }
 .modalMenu {
     direction: rtl;
-<<<<<<< HEAD
     width: 100%;
     max-width: 720px;
     height: 75vh;
@@ -25,11 +24,6 @@
     display: flex;
     flex-direction: column;
     overflow: hidden;
-=======
-    width: 720px;
-    max-width: 720px;
-    height: 75vh;
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
     background-color: white;
     border-radius: 30px;
     animation: slideUp .35s ease-out;
@@ -56,7 +50,6 @@
     line-height: 1.875rem;
     font-weight: 600;
 }
-<<<<<<< HEAD
 .modalHeader {
     display: flex;
     align-items: center;
@@ -75,23 +68,10 @@
 .box {
     width: 100%;
     min-width: 0;
-=======
-.allCategory {
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    gap: 10px;
-    margin-right: 15px;
-}
-.box {
-    width: 100%;
-    height: 64px;
-    background-color: #f1f1f1;
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
     border-radius: 1rem;
     text-align: center;
     align-items: center;
     border: none;
-<<<<<<< HEAD
     font-family: 'Vazir';
 }
 .imgTitle{
@@ -101,23 +81,10 @@
     object-fit: contain;
     background-color: #f1f1f1;
     border-radius: 1rem;
-=======
-    margin-top: 25px;
-    font-family: 'Vazir';
-}
-.imgTitle{
-    width: 48px;
-    height: 48px;
-    margin-top: 9px;
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
 }
 .titleOfBox {
     margin-top: 5px;
     font-family: 'Vazir';
     font-size: 11px;
-<<<<<<< HEAD
     overflow-wrap: anywhere;
 }
-=======
-}
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8

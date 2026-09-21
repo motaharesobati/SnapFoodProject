@@ -1,7 +1,7 @@
 import classes from './MenuBoxs.module.css';
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import ModalMenu from "./ModalMenu";
+import ModalMenu from "./ModalMenu.tsx";
 import category, { type Category } from '../data/categories';
 import FoodCategories from "./FoodCategories.tsx";
 

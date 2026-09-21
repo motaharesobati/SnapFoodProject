@@ -7,6 +7,8 @@
     src: url('../../font/Vazirmatn-Bold.ttf');
 }
 .filterBtn {
+    display: block;
+    margin-left: auto;
     border: 1px solid gray;
     font-family: 'Vazir';
     background-color: white;
@@ -17,6 +19,7 @@
     margin-top: 14px;
 }
 .title {
+    direction: rtl;
     font-family: 'Vazir';
     padding-top: 30px;
     padding-right: 16px;

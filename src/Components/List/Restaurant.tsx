@@ -59,20 +59,20 @@ function CategoryPage({ file }: { file: string }) {
     useEffect(() => {
         const controller = new AbortController();
         fetch(`/json/${file}`, { signal: controller.signal })
-        .then((res) => {
-            if (!res.ok) {
-                throw new Error("دریافت اطلاعات دسته‌بندی ناموفق بود.");
-            }
-            return res.json();
-        })
-        .then((data) => {
-            setRestaurant(data);
-        })
-        .catch(() => {
-            if (!controller.signal.aborted) {
-                setError("دریافت اطلاعات دسته‌بندی ناموفق بود.");
-            }
-        });
+            .then((res) => {
+                if (!res.ok) {
+                    throw new Error("دریافت اطلاعات دسته‌بندی ناموفق بود.");
+                }
+                return res.json();
+            })
+            .then((data) => {
+                setRestaurant(data);
+            })
+            .catch(() => {
+                if (!controller.signal.aborted) {
+                    setError("دریافت اطلاعات دسته‌بندی ناموفق بود.");
+                }
+            });
         return () => controller.abort();
     }, [file]);
 
@@ -97,13 +97,13 @@ function CategoryPage({ file }: { file: string }) {
                     <article key={shop.id} className={classes.shopCard}>
                         <img className={classes.imageShop} src={shop.image} alt={shop.title} />
                         <div className={classes.shopInfo}>
-                        <h2 className={classes.shopTitle}>{shop.title}</h2>
-                        {shop.rating && (
-                            <p>{shop.rating.score} ({shop.rating.votes})</p>
-                        )}
-                        {shop.delivery && (
-                            <p>{shop.delivery.price} {shop.delivery.time}</p>
-                        )}
+                            <h2 className={classes.shopTitle}>{shop.title}</h2>
+                            {shop.rating && (
+                                <p>{shop.rating.score} ({shop.rating.votes})</p>
+                            )}
+                            {shop.delivery && (
+                                <p>{shop.delivery.price} {shop.delivery.time}</p>
+                            )}
                         </div>
                     </article>
                 ))}

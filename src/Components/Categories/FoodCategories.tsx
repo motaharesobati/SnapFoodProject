@@ -24,7 +24,7 @@ export default function FoodCategories() {
             type="button"
             onClick={scrollBack}
             className={classes.arrowRight}
-            >❮</button>}
+            >❯</button>}
             <div ref={listRef} className={classes.list} dir="rtl"
                  onScroll={(event) => {
                      if (Math.abs(event.currentTarget.scrollLeft) < 1) {
@@ -46,7 +46,7 @@ export default function FoodCategories() {
             onClick={scrollNext}
             className={classes.arrowleft}
             >
-                ❯
+                ❮
             </button>
         </div>
     )

@@ -6,7 +6,6 @@
     font-family: 'VazirBold';
     src: url('../../font/Vazirmatn-Bold.ttf');
 }
-<<<<<<< HEAD
 body {
     margin: 0;
     background: #eeeeee;
@@ -19,8 +18,6 @@ body {
     margin: 0 auto;
 }
 
-=======
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
 .locationBtn {
     font-family: 'Vazir';
     border-radius: 20px;

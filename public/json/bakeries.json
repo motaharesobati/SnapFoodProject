@@ -14,13 +14,8 @@
   "bakeries": [
     {
       "id": "bakery_001",
-<<<<<<< HEAD
       "title": "سنگک خوشه طلایی (محلاتی)",
       "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/37/01.jpg",
-=======
-      "title": "سنگک خوشه طلایی (محلاتی-آزادی)",
-      "image": "https://example.com/images/khoshe-talayi.jpg",
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/bakery/bakery_001"
@@ -47,11 +42,7 @@
     {
       "id": "bakery_002",
       "title": "نان و شیرینی نانک",
-<<<<<<< HEAD
       "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/7/04.jpg",
-=======
-      "image": "https://example.com/images/nanak.jpg",
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/bakery/bakery_002"
@@ -83,11 +74,7 @@
     {
       "id": "bakery_003",
       "title": "نان شیرینی داغ",
-<<<<<<< HEAD
       "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/7/05.jpg",
-=======
-      "image": "https://example.com/images/nan-shirini-dagh.jpg",
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/bakery/bakery_003"
@@ -112,11 +99,7 @@
     {
       "id": "bakery_004",
       "title": "نانوایی بربری حسنو (آزادی-شعبه کرمان)",
-<<<<<<< HEAD
       "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/39/01.jpg",
-=======
-      "image": "https://example.com/images/hasno.jpg",
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/bakery/bakery_004"
@@ -134,11 +117,7 @@
     {
       "id": "bakery_005",
       "title": "نانوایی لواشی آبشار",
-<<<<<<< HEAD
       "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/38/01.jpg",
-=======
-      "image": "https://example.com/images/abshar.jpg",
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/bakery/bakery_005"
@@ -156,11 +135,7 @@
     {
       "id": "bakery_006",
       "title": "نان لواشی صدیقی (شعبه خاوران)",
-<<<<<<< HEAD
       "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/38/01.jpg",
-=======
-      "image": "https://example.com/images/sedighi.jpg",
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/bakery/bakery_006"
@@ -175,11 +150,7 @@
     {
       "id": "bakery_007",
       "title": "نان لواش گل گندم",
-<<<<<<< HEAD
       "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/38/01.jpg",
-=======
-      "image": "https://example.com/images/gol-gandom.jpg",
->>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/bakery/bakery_007"
