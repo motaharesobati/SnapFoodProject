@@ -15,7 +15,11 @@
     {
       "id": "sweet_001",
       "title": "شیرینی و خشکبار سارا",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/5/16.jpg",
+=======
       "image": "https://example.com/images/sara.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/sweet-shop/sweet_001"
@@ -41,8 +45,13 @@
 
     {
       "id": "sweet_002",
+<<<<<<< HEAD
+      "title": "کیک خونه ( هفده شهریور)",
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/6a0d5b51cbe56882154938.jpg",
+=======
       "title": "کیک خونه (هفت تیر)",
       "image": "https://example.com/images/cakekhone.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/sweet-shop/sweet_002"
@@ -59,7 +68,11 @@
     {
       "id": "sweet_003",
       "title": "نان و شیرینی نانک",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/7/04.jpg",
+=======
       "image": "https://example.com/images/nanak.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/sweet-shop/sweet_003"
@@ -87,7 +100,11 @@
     {
       "id": "sweet_004",
       "title": "نان و شیرینی داغ",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/7/05.jpg",
+=======
       "image": "https://example.com/images/nan-dagh.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/sweet-shop/sweet_004"
@@ -112,7 +129,11 @@
     {
       "id": "sweet_005",
       "title": "تولیدی ژولیا و بامیه حاج کاظمی",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/5/14.jpg",
+=======
       "image": "https://example.com/images/julia.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/sweet-shop/sweet_005"
@@ -126,8 +147,13 @@
 
     {
       "id": "sweet_006",
+<<<<<<< HEAD
+      "title": "حاجی باقلوا",
+      "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/5/15.jpg",
+=======
       "title": "حاجی باقلا",
       "image": "https://example.com/images/haji-bagla.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/sweet-shop/sweet_006"
@@ -152,7 +178,11 @@
     {
       "id": "sweet_007",
       "title": "نان شیرینی داغ",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/7/03.jpg",
+=======
       "image": "https://example.com/images/nan-shirini.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/sweet-shop/sweet_007"
@@ -177,7 +207,11 @@
     {
       "id": "sweet_008",
       "title": "نان و شیرینی بهشت",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/7/02.jpg",
+=======
       "image": "https://example.com/images/behesht.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/sweet-shop/sweet_008"

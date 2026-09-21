@@ -15,7 +15,11 @@
     {
       "id": "protein_001",
       "title": "سوپر پروتئین قصاب باشی",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/659d2bb4c7997.jpg",
+=======
       "image": "https://example.com/images/ghasab-bashi.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/protein-shop/protein_001"
@@ -47,7 +51,11 @@
     {
       "id": "protein_002",
       "title": "هایپر پروتئین میلاج",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/66d4789170f25.jpg",
+=======
       "image": "https://example.com/images/milaj.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/protein-shop/protein_002"
@@ -79,7 +87,11 @@
     {
       "id": "protein_003",
       "title": "پروتئین حاج امیر",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/677b7782169c5.jpg",
+=======
       "image": "https://example.com/images/haj-amir.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/protein-shop/protein_003"
@@ -97,7 +109,11 @@
     {
       "id": "protein_004",
       "title": "فرآورده های گوشتی نخل",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/6817ab30cbb97.png",
+=======
       "image": "https://example.com/images/nakhl.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/protein-shop/protein_004"
@@ -122,7 +138,11 @@
     {
       "id": "protein_005",
       "title": "پروتئین الف",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/6a314637d2e0e549305325.png",
+=======
       "image": "https://example.com/images/alef.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/protein-shop/protein_005"
@@ -147,7 +167,11 @@
     {
       "id": "protein_006",
       "title": "پروتئین هامون",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/64ab0c706fcb4.jpg",
+=======
       "image": "https://example.com/images/hamoon.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/protein-shop/protein_006"
@@ -165,7 +189,11 @@
     {
       "id": "protein_007",
       "title": "هایپر پروتئین ایران",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/64ab0c706fcb4.jpg",
+=======
       "image": "https://example.com/images/iran-protein.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/protein-shop/protein_007"
@@ -198,7 +226,11 @@
     {
       "id": "protein_008",
       "title": "سوسیس و کالباس قدیمی (امیدان)",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/64ab0c706fcb4.jpg",
+=======
       "image": "https://example.com/images/omidian.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/protein-shop/protein_008"

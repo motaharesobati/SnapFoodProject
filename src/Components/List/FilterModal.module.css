@@ -1,0 +1,155 @@
+@font-face {
+    font-family: 'Vazir';
+    src: url('../../font/Vazirmatn-Medium.ttf');
+}
+@font-face {
+    font-family: 'VazirBold';
+    src: url('../../font/Vazirmatn-Bold.ttf');
+}
+.generally {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    margin-inline: auto;
+    direction: rtl;
+    width: 100%;
+    max-width: 720px;
+    overflow-y: auto;
+    background-color: white;
+    animation: slideUp .35s ease-out;
+}
+.closeModal {
+    border: none;
+    background: none;
+    font-size: 29px;
+    font-family: 'Vazir';
+    padding: 3px 16px;
+}
+@keyframes slideUp {
+    from {
+        transform: translateY(100%);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
+.filterTitle {
+    font-family: 'Vazir';
+}
+.sortBtn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background: none;
+    border: none;
+    padding-bottom: 30px;
+    padding-top: 15px;
+}
+.sortingBtn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background: none;
+    border: none;
+    padding-bottom: 30px;
+}
+.sorting {
+    font-size: 17px;
+    padding-right: 12px;
+    font-family: 'Vazir';
+}
+.button {
+    background: none;
+    border: 1px solid lightgray;
+    border-radius: 38px;
+    padding: 6px;
+    font-family: 'Vazir';
+    font-size: 15px;
+}
+.send {
+    font-family: 'Vazir';
+    border: 1px solid lightgray;
+    border-radius: 0 8px 8px 0;
+    width: 45%;
+    height: 40px;
+}
+.verbal {
+    font-family: 'Vazir';
+    border: 1px solid lightgray;
+    border-radius: 8px 0 0 8px;
+    width: 45%;
+    height: 40px;
+}
+.sendPrice {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background: none;
+    border: none;
+    padding-bottom: 30px;
+
+}
+.sending {
+    font-size: 17px;
+    padding-right: 12px;
+    font-family: 'Vazir';
+}
+.filterRow {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    direction: rtl;
+    padding-right: 20px;
+    cursor: pointer;
+    font-family: 'Vazir';
+    padding-bottom: 30px;
+
+}
+.switch {
+    position: relative;
+    width: 47px;
+    height: 27px;
+    flex-shrink: 0;
+    margin-left: 15px;
+}
+.switch input {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    opacity: 0;
+    cursor: pointer;
+    z-index: 1;
+}
+.slider {
+    position: absolute;
+    inset: 0;
+    background: #adaeb2;
+    border-radius: 30px;
+    transition: background 0.2s;
+}
+.slider::before {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 4px;
+    right: 4px;
+    background: white;
+    border-radius: 50%;
+    box-shadow: 0 1px 3px #0003;
+    transition: transform 0.2s;
+}
+.switch input:checked + .slider {
+    background: #302bff;
+}
+.switch input:checked + .slider::before {
+    transform: translateX(-20px);
+}
+.switch input:focus-visible + .slider{
+    outline: 2px solid #302bff;
+    outline-offset: 3px;
+}

@@ -1,0 +1,281 @@
+{
+  "page": {
+    "title": "سوپرمارکت"
+  },
+  "source": {
+    "type": "screenshot",
+    "notes": [
+      "ترتیب رکوردها در هر ردیف از راست به چپ است.",
+      "نام‌های بریده‌شده عیناً با سه‌نقطه ثبت شده‌اند.",
+      "شناسه‌ها محلی هستند. آدرس تصاویر و تعداد رأی‌ها در تصویر موجود نیست؛ مقدار null دارند.",
+      "دو کارت باران دریان مطابق تصویر جداگانه ثبت شده‌اند.",
+      "برچسب ارسال رایگان و هزینه ارسال مطابق تصویر مستقل ثبت شده‌اند."
+    ]
+  },
+  "supermarkets": [
+    {
+      "id": "supermarket_001",
+      "title": "سوپرمارکت فرهنگیان (بهارستان)",
+      "titleTruncated": false,
+      "image": "https://cdn.snapp.express/media/cache/vendor_logo/uploads/images/vendors/logos/default.png",
+      "rating": {
+        "score": 4.3,
+        "votes": null
+      },
+      "isNew": false,
+      "delivery": {
+        "time": "تا 29 دقیقه",
+        "price": "رایگان"
+      },
+      "badges": [
+        "Pro",
+        "ارسال رایگان",
+        "ارسال توربو"
+      ]
+    },
+    {
+      "id": "supermarket_002",
+      "title": "سوپرمارکت ۳۱۳ - باران دریان (میدا...",
+      "titleTruncated": true,
+      "image": "https://cdn.snapp.express/media/cache/vendor_logo/uploads/images/vendors/logos/6576bcbf130d1.png",
+      "rating": {
+        "score": 3.9,
+        "votes": null
+      },
+      "isNew": false,
+      "delivery": {
+        "time": "تا 29 دقیقه",
+        "price": "رایگان"
+      },
+      "badges": [
+        "Pro",
+        "سفارشی",
+        "ارسال رایگان",
+        "ارسال توربو"
+      ]
+    },
+    {
+      "id": "supermarket_003",
+      "title": "دیلی مارکت خیابان ۱۷ شهریور (هم...",
+      "titleTruncated": true,
+      "image": "https://cdn.snapp.express/media/cache/vendor_logo/uploads/images/vendors/logos/6a0049e8b6d52.jpg",
+      "rating": {
+        "score": 3.7,
+        "votes": null
+      },
+      "isNew": false,
+      "delivery": {
+        "time": "تا 45 دقیقه",
+        "price": "رایگان"
+      },
+      "badges": [
+        "Pro",
+        "ارسال رایگان"
+      ]
+    },
+    {
+      "id": "supermarket_004",
+      "title": "سوپرمارکت ۳۱۳ - باران دریان (میدا...",
+      "titleTruncated": true,
+      "image": "https://cdn.snapp.express/media/cache/vendor_logo/uploads/images/vendors/logos/6576bcbf130d1.png",
+      "rating": {
+        "score": 3.9,
+        "votes": null
+      },
+      "isNew": false,
+      "delivery": {
+        "time": "تا 29 دقیقه",
+        "price": "رایگان"
+      },
+      "badges": [
+        "Pro",
+        "ارسال رایگان",
+        "ارسال توربو"
+      ]
+    },
+    {
+      "id": "supermarket_005",
+      "title": "فروشگاه راکت خیابان مجتبایی (هم...",
+      "titleTruncated": true,
+      "image": "https://cdn.snapp.express/media/cache/vendor_logo/uploads/images/vendors/logos/699c36d9bea5b.jpeg",
+      "rating": null,
+      "isNew": true,
+      "delivery": {
+        "time": "تا 45 دقیقه",
+        "price": "رایگان"
+      },
+      "badges": [
+        "Pro",
+        "ارسال رایگان"
+      ]
+    },
+    {
+      "id": "supermarket_006",
+      "title": "فروشگاه راکت سرآسیاب (همواره تخفیف)",
+      "titleTruncated": false,
+      "image": "https://cdn.snapp.express/media/cache/vendor_logo/uploads/images/vendors/logos/69c84b6871bbf.jpeg",
+      "rating": null,
+      "isNew": true,
+      "delivery": {
+        "time": "تا 45 دقیقه",
+        "price": "رایگان"
+      },
+      "badges": [
+        "ارسال رایگان"
+      ]
+    },
+    {
+      "id": "supermarket_007",
+      "title": "جانبو مجاهدین (همواره تخفیف)",
+      "titleTruncated": false,
+      "image": "https://cdn.snapp.express/media/cache/vendor_logo/uploads/images/vendors/logos/66a101797d628.jpg",
+      "rating": {
+        "score": 4.5,
+        "votes": null
+      },
+      "isNew": false,
+      "delivery": {
+        "time": "تا 45 دقیقه",
+        "price": "۳۰٬۱۰۰ تومان"
+      },
+      "badges": []
+    },
+    {
+      "id": "supermarket_008",
+      "title": "دیلی مارکت پیچ شمیران(همواره تخفیف)",
+      "titleTruncated": false,
+      "image": "https://cdn.snapp.express/media/cache/vendor_logo/uploads/images/vendors/logos/6a0049e8b6d52.jpg",
+      "rating": {
+        "score": 4.2,
+        "votes": null
+      },
+      "isNew": false,
+      "delivery": {
+        "time": "تا 45 دقیقه",
+        "price": "رایگان"
+      },
+      "badges": []
+    },
+    {
+      "id": "supermarket_009",
+      "title": "فروشگاه راکت عارف شمالی (همواره...",
+      "titleTruncated": true,
+      "image": "https://cdn.snapp.express/media/cache/vendor_logo/uploads/images/vendors/logos/69aeb2e61d112.jpeg",
+      "rating": null,
+      "isNew": true,
+      "delivery": {
+        "time": "تا 45 دقیقه",
+        "price": "رایگان"
+      },
+      "badges": [
+        "Pro",
+        "ارسال رایگان"
+      ]
+    },
+    {
+      "id": "supermarket_010",
+      "title": "دیلی مارکت میدان امام حسین(هم...",
+      "titleTruncated": true,
+      "image": "https://cdn.snapp.express/media/cache/vendor_logo/uploads/images/vendors/logos/6a0049e8b6d52.jpg",
+      "rating": {
+        "score": 4.1,
+        "votes": null
+      },
+      "isNew": false,
+      "delivery": {
+        "time": "تا 29 دقیقه",
+        "price": "رایگان"
+      },
+      "badges": [
+        "Pro",
+        "ارسال رایگان",
+        "ارسال توربو"
+      ]
+    },
+    {
+      "id": "supermarket_011",
+      "title": "دیلی مارکت نیکنام تهران(همواره تخفیف)",
+      "titleTruncated": false,
+      "image": "https://cdn.snapp.express/media/cache/vendor_logo/uploads/images/vendors/logos/6a0049e8b6d52.jpg",
+      "rating": null,
+      "isNew": true,
+      "delivery": {
+        "time": "تا 45 دقیقه",
+        "price": "رایگان"
+      },
+      "badges": []
+    },
+    {
+      "id": "supermarket_012",
+      "title": "سوپرمارکت پارس (دروازه شمیران)",
+      "titleTruncated": false,
+      "image": "https://cdn.snapp.express/media/cache/vendor_logo/uploads/images/vendors/logos/6738915d6461b.png",
+      "rating": {
+        "score": 4.4,
+        "votes": null
+      },
+      "isNew": false,
+      "delivery": {
+        "time": "تا 29 دقیقه",
+        "price": "۲۹٬۲۰۰ تومان"
+      },
+      "badges": [
+        "تضمین تاریخ",
+        "ارسال توربو"
+      ]
+    },
+    {
+      "id": "supermarket_013",
+      "title": "سوپرمارکت خورشید - باران دریان (درواز...",
+      "titleTruncated": true,
+      "image": "https://cdn.snapp.express/media/cache/vendor_logo/uploads/images/vendors/logos/66cf1a405068b.png",
+      "rating": {
+        "score": 2.8,
+        "votes": null
+      },
+      "isNew": false,
+      "delivery": {
+        "time": "تا 45 دقیقه",
+        "price": "۳۷٬۶۰۰ تومان"
+      },
+      "badges": [
+        "تضمین تاریخ"
+      ]
+    },
+    {
+      "id": "supermarket_014",
+      "title": "فروشگاه گلریز (شوینده بهداشتی)",
+      "titleTruncated": false,
+      "image": "https://cdn.snapp.express/media/cache/vendor_logo/uploads/images/vendors/logos/68204f5a540bb.jpg",
+      "rating": null,
+      "isNew": true,
+      "delivery": {
+        "time": "تا 29 دقیقه",
+        "price": "۳۲٬۵۰۰ تومان"
+      },
+      "badges": [
+        "Pro",
+        "ارسال رایگان",
+        "ارسال توربو"
+      ]
+    },
+    {
+      "id": "supermarket_015",
+      "title": "سوپرمارکت زرین (میدان شهدا)",
+      "titleTruncated": false,
+      "image": "https://cdn.snapp.express/media/cache/vendor_logo/uploads/images/vendors/logos/default.png",
+      "rating": {
+        "score": 3.8,
+        "votes": null
+      },
+      "isNew": false,
+      "delivery": {
+        "time": "تا 29 دقیقه",
+        "price": "۳۴٬۰۰۰ تومان"
+      },
+      "badges": [
+        "ارسال توربو"
+      ]
+    }
+  ]
+}

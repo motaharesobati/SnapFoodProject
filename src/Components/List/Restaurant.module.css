@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Vazir';
+    src: url('../../font/Vazirmatn-Medium.ttf');
+}
+@font-face {
+    font-family: 'VazirBold';
+    src: url('../../font/Vazirmatn-Bold.ttf');
+}
+.filterBtn {
+    border: 1px solid gray;
+    font-family: 'Vazir';
+    background-color: white;
+    border-radius: 15px;
+    padding: 4px;
+    width: 70px;
+    margin-right: 12px;
+    margin-top: 14px;
+}
+.title {
+    font-family: 'Vazir';
+    padding-top: 30px;
+    padding-right: 16px;
+    font-size: 20px;
+
+}
+.shopList {
+    display: grid;
+    gap: 0;
+    padding: 16px;
+    font-family: 'Vazir';
+}
+.shopCard {
+    min-width: 0;
+    padding: 16px 0;
+    border-bottom: 1px solid #e5e5e5;
+    background: white;
+    display: flex;
+    flex-direction: row;
+    direction: rtl;
+    align-items: flex-start;
+    gap: 12px;
+}
+.shopInfo {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-width: 0;
+    overflow-wrap: anywhere;
+}
+.shopTitle {
+    margin: 0 0 0px;
+    font-size: 18px;
+}
+.shopCard p {
+    margin: 8px 0 0;
+    color: #555;
+    font-size: 14px;
+}
+.imageShop {
+    width: 96px;
+    height: 72px;
+    flex-shrink: 0;
+    object-fit: cover;
+    border-radius: 15px;
+}

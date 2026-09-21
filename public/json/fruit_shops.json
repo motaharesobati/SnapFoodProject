@@ -21,7 +21,11 @@
     {
       "id": "fruit_001",
       "title": "سرای میوه درویان",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/676abcec827b7.jpg",
+=======
       "image": "https://example.com/images/dervian.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/fruit-shop/fruit_001"
@@ -51,7 +55,11 @@
     {
       "id": "fruit_002",
       "title": "هایپر میوه مافخری",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/67cd9c7527e29.jpg",
+=======
       "image": "https://example.com/images/mafakhri.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/fruit-shop/fruit_002"
@@ -87,7 +95,11 @@
     {
       "id": "fruit_003",
       "title": "میوه فروشی شفیعی",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/6978e29d44a57.jpg",
+=======
       "image": "https://example.com/images/shafiei.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/fruit-shop/fruit_003"
@@ -105,7 +117,11 @@
     {
       "id": "fruit_004",
       "title": "سبزی خوردکنی بانو",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/67cea6f8f254f.jpg",
+=======
       "image": "https://example.com/images/banoo.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/fruit-shop/fruit_004"
@@ -133,7 +149,11 @@
     {
       "id": "fruit_005",
       "title": "میوه حاجی ارزونی برادران فتاحی",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/67c2caf5db7f4.jpg",
+=======
       "image": "https://example.com/images/fattahi.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/fruit-shop/fruit_005"
@@ -169,7 +189,11 @@
     {
       "id": "fruit_006",
       "title": "ارزانسرای میوه (محله درویان)",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/6a54f5c3e61b6664571152.png",
+=======
       "image": "https://example.com/images/arzansera.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/fruit-shop/fruit_006"
@@ -203,6 +227,11 @@
     },
 
     {
+<<<<<<< HEAD
+      "id": "fruit_008",
+      "title": "سوپر میوه علمدار",
+      "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/12/01.jpg",
+=======
       "id": "fruit_007",
       "title": "سبزی خردکنی سبزینو",
       "image": "https://example.com/images/sabzino.jpg",
@@ -221,6 +250,7 @@
       "id": "fruit_008",
       "title": "سوپر میوه علمدار",
       "image": "https://example.com/images/alemdar.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/fruit-shop/fruit_008"

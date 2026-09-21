@@ -15,7 +15,11 @@
     {
       "id": "dairy_001",
       "title": "لبنیات سنتی اسکندری (چهارراه خورشید)",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/681710f34f2dc.jpg",
+=======
       "image": "https://example.com/images/eskandari-dairy.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/dairy/dairy_001"
@@ -36,7 +40,11 @@
     {
       "id": "dairy_002",
       "title": "لبنیات سنتی دشت آدینه",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/6a67235e13f80795106772.jpg",
+=======
       "image": "https://example.com/images/dasht-adineh.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/dairy/dairy_002"
@@ -58,7 +66,11 @@
     {
       "id": "dairy_003",
       "title": "عسل شهدیزان فردوس",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/69e72f2231a8c.jpg",
+=======
       "image": "https://example.com/images/shahdizan.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/dairy/dairy_003"
@@ -76,7 +88,11 @@
     {
       "id": "dairy_004",
       "title": "خشکبار و عسل شهدیزان (اختیاریه)",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/69e72f2231a8c.jpg",
+=======
       "image": "https://example.com/images/shahdizan-ekhtiyariyeh.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/dairy/dairy_004"

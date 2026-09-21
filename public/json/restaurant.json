@@ -1,0 +1,180 @@
+{
+  "page": {
+    "title": "رستوران",
+    "openRestaurantsCount": 201,
+    "selectedAddress": {
+      "id": "address_001",
+      "title": "آدرس منتخب",
+      "city": "تهران",
+      "latitude": 35.7219,
+      "longitude": 51.3347
+    }
+  },
+  "restaurants": [
+    {
+      "id": "restaurant_001",
+      "title": "فست فود شقایق",
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/659b0344e4d22.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/restaurant/restaurant_001"
+      },
+      "rating": {
+        "score": 4.2,
+        "votes": 4500
+      },
+      "delivery": {
+        "time": "30 دقیقه",
+        "price": "34,000 تومان"
+      },
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "35%",
+          "label": "تخفیف باز"
+        },
+        {
+          "type": "percentage",
+          "value": "7%",
+          "label": "تا 7% تخفیف"
+        }
+      ],
+      "badges": []
+    },
+    {
+      "id": "restaurant_002",
+      "title": "تله پیتزا (شاهد)",
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/6a68de896a54a802643401.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/restaurant/restaurant_002"
+      },
+      "rating": {
+        "score": 4.7,
+        "votes": 800
+      },
+      "delivery": {
+        "time": "25 دقیقه",
+        "price": "رایگان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان + تخفیف"
+        },
+        {
+          "type": "percentage",
+          "value": "20%",
+          "label": "تخفیف شگفت"
+        }
+      ]
+    },
+    {
+      "id": "restaurant_003",
+      "title": "پیتزا شیلا (هفت تیر)",
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/6a0778abc6ff1510647103.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/restaurant/restaurant_003"
+      },
+      "rating": {
+        "score": 4.5,
+        "votes": 6500
+      },
+      "delivery": {
+        "time": "45 دقیقه",
+        "price": "34,000 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "25%",
+          "label": "تخفیف"
+        }
+      ]
+    },
+    {
+      "id": "restaurant_004",
+      "title": "دینگو (هفت تیر)",
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/6a7a2f9fdaa1b519881732.png",
+      "onClick": {
+        "type": "navigate",
+        "target": "/restaurant/restaurant_004"
+      },
+      "rating": {
+        "score": 4.7,
+        "votes": 88
+      },
+      "delivery": {
+        "time": "40 دقیقه",
+        "price": "34,800 تومان"
+      },
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "35%",
+          "label": "تخفیف باز"
+        }
+      ]
+    },
+    {
+      "id": "restaurant_005",
+      "title": "رستوران هانی (قیام)",
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/67444bf8af564.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/restaurant/restaurant_005"
+      },
+      "rating": {
+        "score": 4.2,
+        "votes": 11000
+      },
+      "delivery": {
+        "time": "24 دقیقه",
+        "price": "34,800 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "free_delivery",
+          "label": "ارسال رایگان + تخفیف"
+        }
+      ]
+    },
+    {
+      "id": "restaurant_006",
+      "title": "پیتزا شیلا (سعدی)",
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/6a0778abc6ff1510647103.jpg",
+      "onClick": {
+        "type": "navigate",
+        "target": "/restaurant/restaurant_006"
+      },
+      "rating": {
+        "score": 4.7,
+        "votes": 33000
+      },
+      "delivery": {
+        "time": "45 دقیقه",
+        "price": "53,000 تومان"
+      },
+      "badges": [
+        "Pro"
+      ],
+      "discounts": [
+        {
+          "type": "percentage",
+          "value": "25%",
+          "label": "تخفیف"
+        }
+      ]
+    }
+  ]
+}

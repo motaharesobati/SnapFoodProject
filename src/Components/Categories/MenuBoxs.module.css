@@ -9,7 +9,11 @@
 }
 .category {
     display: grid;
+<<<<<<< HEAD
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+=======
     grid-template-columns: repeat(5, 1fr);
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
     direction: rtl;
     gap: 15px;
     padding: 15px 15px 40px;
@@ -37,7 +41,12 @@
     font-size: 11px;
 }
 .buttonBox {
+<<<<<<< HEAD
+    width: 100%;
+    min-width: 0;
+=======
     width: 125px;
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
     height: 64px;
     background-color: #f1f1f1;
     border-radius: 1rem;
@@ -47,4 +56,8 @@
     margin-top: 25px;
     font-family: 'Vazir';
     font-size: 25px;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8

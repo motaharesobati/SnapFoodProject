@@ -15,7 +15,11 @@
     {
       "id": "juice_001",
       "title": "آبمیوه بستنی عارف",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/9/05.jpg",
+=======
       "image": "https://example.com/images/aref.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/juice-icecream/juice_001"
@@ -46,7 +50,11 @@
     {
       "id": "juice_002",
       "title": "آبمیوه بستنی خاطره",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/9/12.jpg",
+=======
       "image": "https://example.com/images/khatereh.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/juice-icecream/juice_002"
@@ -73,7 +81,11 @@
     {
       "id": "juice_003",
       "title": "آبمیوه و بستنی آقاجون",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/9/10.jpg",
+=======
       "image": "https://example.com/images/agha-joon.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/juice-icecream/juice_003"
@@ -100,7 +112,11 @@
     {
       "id": "juice_004",
       "title": "آبمیوه بستنی محسن",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/9/06.jpg",
+=======
       "image": "https://example.com/images/mohsen.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/juice-icecream/juice_004"
@@ -118,7 +134,11 @@
     {
       "id": "juice_005",
       "title": "آبمیوه بستنی شکوفه",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/9/10.jpg",
+=======
       "image": "https://example.com/images/shokoofeh.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/juice-icecream/juice_005"
@@ -150,7 +170,11 @@
     {
       "id": "juice_006",
       "title": "آبمیوه بستنی چهارصد",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/9/01.jpg",
+=======
       "image": "https://example.com/images/400.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/juice-icecream/juice_006"
@@ -186,7 +210,11 @@
     {
       "id": "juice_007",
       "title": "بستنی اسکندری",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/media/cache/vendor_item_cover/uploads/images/vendors/covers/694d55d2a51ca.png",
+=======
       "image": "https://example.com/images/eskandari.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/juice-icecream/juice_007"
@@ -204,7 +232,11 @@
     {
       "id": "juice_008",
       "title": "آبمیوه بستنی توت فرنگی",
+<<<<<<< HEAD
+      "image": "https://cdn.snappfood.ir/cdn/vendor_sub_types/9/06.jpg",
+=======
       "image": "https://example.com/images/tootfarangi.jpg",
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
       "onClick": {
         "type": "navigate",
         "target": "/juice-icecream/juice_008"

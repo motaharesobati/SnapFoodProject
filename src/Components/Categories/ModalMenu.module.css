@@ -17,9 +17,19 @@
 }
 .modalMenu {
     direction: rtl;
+<<<<<<< HEAD
+    width: 100%;
+    max-width: 720px;
+    height: 75vh;
+    height: 75dvh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+=======
     width: 720px;
     max-width: 720px;
     height: 75vh;
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
     background-color: white;
     border-radius: 30px;
     animation: slideUp .35s ease-out;
@@ -46,6 +56,26 @@
     line-height: 1.875rem;
     font-weight: 600;
 }
+<<<<<<< HEAD
+.modalHeader {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+}
+.allCategory {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 20px 10px;
+    padding: 16px 15px 24px;
+    min-height: 0;
+    overflow-y: auto;
+    overscroll-behavior-y: contain;
+    align-content: start;
+}
+.box {
+    width: 100%;
+    min-width: 0;
+=======
 .allCategory {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
@@ -56,10 +86,22 @@
     width: 100%;
     height: 64px;
     background-color: #f1f1f1;
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
     border-radius: 1rem;
     text-align: center;
     align-items: center;
     border: none;
+<<<<<<< HEAD
+    font-family: 'Vazir';
+}
+.imgTitle{
+    width: 100%;
+    height: 48px;
+    padding: 8px 0;
+    object-fit: contain;
+    background-color: #f1f1f1;
+    border-radius: 1rem;
+=======
     margin-top: 25px;
     font-family: 'Vazir';
 }
@@ -67,9 +109,15 @@
     width: 48px;
     height: 48px;
     margin-top: 9px;
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
 }
 .titleOfBox {
     margin-top: 5px;
     font-family: 'Vazir';
     font-size: 11px;
+<<<<<<< HEAD
+    overflow-wrap: anywhere;
 }
+=======
+}
+>>>>>>> f7fb810bda5948d9cd7d45de6dcd5179bf8b1fb8
